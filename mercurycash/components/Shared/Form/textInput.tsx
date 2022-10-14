@@ -2,6 +2,7 @@ import React from 'react'
 import LockIcon from '../../Icons/lockIcon'
 
 interface Props {
+
   placeholder?: string
 }
 

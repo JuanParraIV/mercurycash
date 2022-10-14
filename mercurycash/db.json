@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "jmparra1993@gmail.com",
+      "password": "23893437",
+      "country": "colombia",
+      "language": "English"
+    },
+    {
+      "id": "a6560fea-e64e-4901-9f3a-30baf1840fe4",
+      "email": "Maria",
+      "password": "123",
+      "country": "Colombia",
+      "lang": "French"
+    },
+    {
+      "id": "e3f6972d-2439-46e1-92c1-e61a1475a414",
+      "email": "Juan",
+      "password": "123",
+      "country": "Colombia",
+      "lang": "French"
+    },
+    {
+      "id": "b3c129bc-1c20-4287-851e-b0811a46321f",
+      "email": "Jose",
+      "password": "123",
+      "country": "Colombia",
+      "lang": "French"
+    },
+    {
+      "id": "3f6292e2-b0ce-491e-b42b-6b40a3bd6473",
+      "email": "l.cujia@gmail.com",
+      "password": "123456",
+      "country": "Colombia",
+      "lang": "French"
+    }
+  ]
+}
